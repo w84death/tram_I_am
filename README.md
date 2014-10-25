@@ -4,7 +4,7 @@ Tram, I am!
 P1X,
 Krzysztof Jankowski
 
-abstract: Game for 0h GameJam
+abstract: Game for <a href="http://0hgame.eu/#">0h GameJam</a>
 engine: ImpactJS
 created: 26.10.2014
 license: do what you want and dont bother me
